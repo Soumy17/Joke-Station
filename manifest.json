@@ -1,0 +1,13 @@
+{
+    "name": "Jokes Station",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "description": "Find best jokes on just a click to refresh your self",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "128": "logo.png"
+    }
+}
